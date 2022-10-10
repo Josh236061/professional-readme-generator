@@ -50,4 +50,10 @@ THEN I am taken to the corresponding section of the README
 
 ## Project Link(s) & URLs
 
+GitHub Repo URL:
+
+Published Site URL:
+
+Screencast Link:
+
 
