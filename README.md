@@ -1,4 +1,4 @@
-# professional-readme-generator
+# professional-readme-generator (PROJECT README)
 Rice Bootcamp Challenge 9 Assignment: Professional README Generator
 
 ## Introduction
