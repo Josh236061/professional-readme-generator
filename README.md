@@ -50,9 +50,7 @@ THEN I am taken to the corresponding section of the README
 
 ## Project Link(s) & URLs
 
-GitHub Repo URL:
-
-Published Site URL:
+GitHub Repo URL: https://github.com/Josh236061/professional-readme-generator
 
 Screencast Link:
 
