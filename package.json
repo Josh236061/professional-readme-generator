@@ -1,23 +1,14 @@
 {
-  "name": "professional-readme-generator",
+  "name": "static-site",
   "version": "1.0.0",
-  "description": "Rice Bootcamp Challenge 9 Assignment: Professional README Generator",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Josh236061/professional-readme-generator.git"
-  },
-  "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Josh236061/professional-readme-generator/issues"
-  },
-  "homepage": "https://github.com/Josh236061/professional-readme-generator#readme",
   "dependencies": {
-    "inquirer": "^8.0.0"
+    "inquirer": "^6.3.1"
   }
 }
