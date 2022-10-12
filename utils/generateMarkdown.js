@@ -40,40 +40,40 @@ function generateMarkdown(data) {
 
   ${renderLicenseBadge(data.licenses)}
 
-  ## Table of Contents
-  * [Description](#description)
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [Licenses](#licenses)
-  * [Contributing](#contributing)
-  * [Tests](#tests)
-  * [Questions](#questions)
-  * [Credits](#credits)
+  # Table of Contents
+  1. [Description](#description)
+  2. [Installation](#installation)
+  3. [Usage](#usage)
+  4. [Licenses](#licenses)
+  5. [Contributing](#contributing)
+  6. [Tests](#tests)
+  7. [Questions](#questions)
+  8. [Credits](#credits)
 
-  ## Description <a name="description"></a>
+  ## Description
   ${data.description}
 
-  ## Installation <a name="installation"></a>
+  ## Installation
   ${data.installation}
 
-  ## Usage <a name="usage"></a>
+  ## Usage
   ${data.usage}
 
-  ## Licenses <a name="licenses"></a>
+  ## Licenses
   ${renderLicenseSection(data.licenses)}
 
-  ## Contributing <a name="contributing"></a>
+  ## Contributing
   ${data.contributing}
 
-  ## Tests <a name="tests"></a>
+  ## Tests
   ${data.tests}
 
-  ## Questions <a name="questions"></a>
+  ## Questions
   Have questions about this project?  
   GitHub: https://github.com/${data.github}  
   Email: ${data.email}
 
-  ## Credits <a name="credits"></a>
+  ## Credits
   ${data.name}
 `;
 }
