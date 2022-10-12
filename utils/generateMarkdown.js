@@ -50,29 +50,30 @@ function generateMarkdown(data) {
   * [Questions](#questions)
   * [Credits](#credits)
 
-  ## Description
+  ## Description <a name="description"></a>
   ${data.description}
 
-  ## Installation
+  ## Installation <a name="installation"></a>
   ${data.installation}
 
-  ## Usage
+  ## Usage <a name="usage"></a>
   ${data.usage}
 
+  ## Licenses <a name="licenses"></a>
   ${renderLicenseSection(data.licenses)}
 
-  ## Contributing
+  ## Contributing <a name="contributing"></a>
   ${data.contributing}
 
-  ## Tests
+  ## Tests <a name="tests"></a>
   ${data.tests}
 
-  ## Questions
+  ## Questions <a name="questions"></a>
   Have questions about this project?  
   GitHub: https://github.com/${data.github}  
   Email: ${data.email}
 
-  ## Credits
+  ## Credits <a name="credits"></a>
   ${data.name}
 `;
 }
