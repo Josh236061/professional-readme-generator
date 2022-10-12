@@ -47,6 +47,10 @@ THEN I am taken to the corresponding section of the README
 
 ## Screenshot
 
+![image](https://user-images.githubusercontent.com/71394743/195457555-fce33f56-ca3d-4acf-be36-5107e3ddacd6.png)
+
+
+
 
 ## Project Link(s) & URLs
 
